@@ -1,6 +1,6 @@
-Candidate_profile.json
-Job_description.json
+Job descriptions/
 myenv/
 resume/
-Job description/
-_pycache_/
+__pycache__/
+Candidate_profile.json
+Job_description.json
